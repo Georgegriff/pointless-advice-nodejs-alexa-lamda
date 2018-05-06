@@ -1,0 +1,1 @@
+Alexa skill for Pointless advice from http://api.adviceslip.com/advice
